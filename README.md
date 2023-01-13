@@ -49,7 +49,7 @@ The majority of people have a life expectancy between the ages of 72-76.
 
 Developed countries spend more on health than developing countries.
 ### Hepatitis_b and diphtheria immunization in developed and developing countries
-[image5](https://user-images.githubusercontent.com/117164514/212287001-fc4a73c8-1692-4a91-b7d1-a868b232d431.png)
+![image5](https://user-images.githubusercontent.com/117164514/212287204-5dcf7d6f-f808-4a5f-957d-36f2e95a3da6.png)
 
 Developed countries have more Immunization coverage among 1-year-olds as compared to the Developing countries.
 

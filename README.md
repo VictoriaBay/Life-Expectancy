@@ -64,7 +64,7 @@ The model predicted:
 
 * Developing countries should make vaccines more accessible by partnering with local pharmacies, paramedics, and healthcare providers to offer door-to-door vaccination services and set up a hotline and an online form for people to request at-home vaccinations.
 
-* The BMI range of a person also directly affects their life expectancy. People who are in the middle range, meaning neither too thin nor too fat have longer life spans. 
+* The BMI range of a person also directly affects their life expectancy. People who are in the middle (healthy) range, meaning not having excess weight or very low weight have longer life spans.
 
 * Developing countries should also improve access to healthcare by expanding insurance to cover healthcare costs, extend telehealth services, provide cheaper drugs, and educate the public about multiple healthcare sites.
 

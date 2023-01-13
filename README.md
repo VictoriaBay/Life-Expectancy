@@ -69,7 +69,7 @@ The model predicted:
 ## Repository Guide
 The data used for the project can be found here https://github.com/VictoriaBay/Life-Expectancy/blob/main/Life%20Expectancy%20Data.csv
 
-The images from EDA can be found here []
+The images from EDA can be found here https://github.com/VictoriaBay/Life-Expectancy/tree/main/Images
 
 The notebook that contains the project can be found here https://github.com/VictoriaBay/Life-Expectancy/blob/main/Multi_Linear_Regression_Project__Group_Goku%20(1).ipynb
 

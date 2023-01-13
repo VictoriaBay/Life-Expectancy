@@ -1,7 +1,7 @@
 
 # A Multiple Linear Regression Model for Predicting Life Expectancy In Developing and Developed Countries
+![lifeexpectancy](https://user-images.githubusercontent.com/117164514/212286126-aa767538-b443-404a-85c6-3ad8627b26a7.jpg)
 
-![My Image](lifeexpectancy.jpg)
 
 ## Overview
 This project aims to predict the life expectancy using multilinear regression model using a dataset obtained from kaggle containing information on countries such as; status, life expectancy, adult motality and many more.
@@ -35,21 +35,21 @@ The Life Expectancy Data.csv contains 2938 rows and 22 columns. The columns coin
 The data was checked to ensure it was in useable form. This was done by checking duplicates, null values, outliers, removing white spaces and filing the missing values.
 
 ## Explanatory Data Analysis
-### Count plot between developed and developing countries  
-![My Image](image2.png)
+### Count plot between developed and developing countries 
+![image2](https://user-images.githubusercontent.com/117164514/212286407-d359f1d3-37b0-4a64-be4b-d26953cfbd1d.png)
 
 The majority of people have a life expectancy between the ages of 72-76.
 ### Life Expectancy distribution
-![My Image](image3.png)
+![image3](https://user-images.githubusercontent.com/117164514/212286366-b7906153-7d61-4d73-893f-d67cb42e7d4a.png)
 
 The majority of people have a life expectancy between the ages of 72-76.
 ### Comparison of percentage expenditure between developed  and developing countries
-![My Image](image3.png)
+
+![image4](https://user-images.githubusercontent.com/117164514/212286927-8d5893e0-cf69-4a1b-be7c-a53a0782e4db.png)
 
 Developed countries spend more on health than developing countries.
 ### Hepatitis_b and diphtheria immunization in developed and developing countries
-![My Image](image4.png)
-![My Image](image5.png)
+[image5](https://user-images.githubusercontent.com/117164514/212287001-fc4a73c8-1692-4a91-b7d1-a868b232d431.png)
 
 Developed countries have more Immunization coverage among 1-year-olds as compared to the Developing countries.
 

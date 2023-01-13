@@ -59,11 +59,14 @@ It involved checking correlation, creating subsets, dealing with categorical var
 The first model had an adjusted R-Squared of 74% while the second model had an adjusted R-Squared of 75%.
 ## Conclusion
 The model predicted:
-* The number of years one spends in school has a positive increase in their life expectancy 
-* Getting immunized increases one's life expectancy
+
+* Developing countries should not only focus on bringing more children into school but also to improve the quality of the educational system itself by reducing the cost of education, investing in school lunch programs, educating parents and improving resources for teachers.
+
+* Developing countries should make vaccines more accessible by partnering with local pharmacies, paramedics, and healthcare providers to offer door-to-door vaccination services and set up a hotline and an online form for people to request at-home vaccinations.
+
 * The BMI range of a person also directly affects their life expectancy. People who are in the middle range, meaning neither too thin nor too fat have longer life spans. 
-* Developed Nations have better health care expenditure and thus their life expectancy is higher compared to the developed countries.
-* Developing countries have a lower life expectancy as compared to developed countries. This can be attributed to civil wars and economical crises.
+
+* Developing countries should also improve access to healthcare by expanding insurance to cover healthcare costs, extend telehealth services, provide cheaper drugs, and educate the public about multiple healthcare sites.
 
 
 ## Repository Guide

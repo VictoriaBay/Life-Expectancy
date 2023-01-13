@@ -64,3 +64,13 @@ The model predicted:
 * The BMI range of a person also directly affects their life expectancy. People who are in the middle range, meaning neither too thin nor too fat have longer life spans. 
 * Developed Nations have better health care expenditure and thus their life expectancy is higher compared to the developed countries.
 * Developing countries have a lower life expectancy as compared to developed countries. This can be attributed to civil wars and economical crises.
+
+
+## Repository Guide
+The data used for the project can be found here [https://github.com/VictoriaBay/Life-Expectancy/blob/main/Life%20Expectancy%20Data.csv]
+
+The images from EDA can be found here []
+
+The notebook that contains the project can be found here [https://github.com/VictoriaBay/Life-Expectancy/blob/main/Multi_Linear_Regression_Project__Group_Goku%20(1).ipynb]
+
+The presentation for this project can be found here [https://www.canva.com/design/DAFXcxoLKC8/P1Ij9Ag2Y9flm8mwstfADg/edit?utm_content=DAFXcxoLKC8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]

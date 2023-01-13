@@ -37,16 +37,20 @@ The data was checked to ensure it was in useable form. This was done by checking
 ## Explanatory Data Analysis
 ### Count plot between developed and developing countries  
 ![My Image](image2.png)
+
 The majority of people have a life expectancy between the ages of 72-76.
 ### Life Expectancy distribution
 ![My Image](image3.png)
+
 The majority of people have a life expectancy between the ages of 72-76.
 ### Comparison of percentage expenditure between developed  and developing countries
 ![My Image](image3.png)
+
 Developed countries spend more on health than developing countries.
 ### Hepatitis_b and diphtheria immunization in developed and developing countries
 ![My Image](image4.png)
 ![My Image](image5.png)
+
 Developed countries have more Immunization coverage among 1-year-olds as compared to the Developing countries.
 
 ## Modelling

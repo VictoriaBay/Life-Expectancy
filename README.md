@@ -78,4 +78,4 @@ The notebook that contains the project can be found here https://github.com/Vict
 
 The presentation for this project can be found here https://www.canva.com/design/DAFXcxoLKC8/P1Ij9Ag2Y9flm8mwstfADg/edit?utm_content=DAFXcxoLKC8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-A Data Report for this project can be found here  https://github.com/VictoriaBay/Life-Expectancy/blob/main/Data%20Report%20(GOKU).pdf
+A Data Report for this project can be found here  https://github.com/VictoriaBay/Life-Expectancy/blob/main/Final%20Data%20Report%20%20(GOKU).pdf
